@@ -69,7 +69,7 @@ from housing;
 when soldasvacant = 'N' then 'No'
 else soldasvacant
 end;
-select * from family;
+select * from housing;
 -- Remove Duplicates
 
 delete t1
